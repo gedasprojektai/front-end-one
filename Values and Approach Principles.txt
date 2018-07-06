@@ -6,6 +6,9 @@ We focus on only a few things at once. We do not take multiple taks. We work all
 - Creativity
 We are testing new things, we are not afraid of to take risks and to fail and then try again. We are looking for the best solution.
 
+- Resourcefulness 
+For the achievement of our goals, as well as maximum efficiency of workflow we're able to utilize a variety of tools and gather information from various sources.
+
 
 Work approach principles:
 
@@ -15,3 +18,5 @@ We emphasize the focus of Scrum to deliver maximum business value. The most impo
 - Flexibility in working
 We use different ways to achieve the goal. Sometimes we work and discuss online and sometimes we meet to discuss the idea faster.
 
+- Utilization of third-party applications and resources
+In order to achieve best results and optimize the work process as much as possible, we employ various applications for communication, such as Discord, and several open-source tools, such as automatic online compiler bot.
