@@ -25,4 +25,4 @@ We use different ways to achieve the goal. Sometimes we work and discuss online 
 In order to achieve best results and optimize the work process as much as possible, we employ various applications for communication, such as Discord, and several open-source tools, such as automatic online compiler bot.
 
 - Prudence in making decisions
-We don't limit ourselves with the "only possible" solution. For yeach stage of the project besides the main we also forsee backup solution.
+We don't limit ourselves with the "only possible" solution. For each stage of the project besides the main we also forsee backup solution.
