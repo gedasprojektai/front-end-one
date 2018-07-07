@@ -1,4 +1,4 @@
-This Values: 
+Values: 
 
 - Focus
 We focus on only a few things at once. We do not take multiple taks. We work all together, we discuss all together and we build a perfect product. 
@@ -12,6 +12,8 @@ For the achievement of our goals, as well as maximum efficiency of workflow we'r
 - Adaptability
 We are able (if necessary) to reajust the course of work process responding to changing situation while keeping the goal of work unchanged.
 
+- Respect
+Everyone's opinion is heard. We listen respectfully to the suggestions and comments of each team member and appreciate individual contributions to the project. 
 
 Work approach principles:
 
@@ -26,3 +28,6 @@ In order to achieve best results and optimize the work process as much as possib
 
 - Prudence in making decisions
 We don't limit ourselves with the "only possible" solution. For each stage of the project besides the main we also forsee backup solution.
+
+- Regular reflections on how to become more effective.
+We review our work regularly and make adjustments if needed.
